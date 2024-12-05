@@ -1,0 +1,6 @@
+
+
+THIS IS TEXT INTERPOLATION
+
+Text("Hello, \(Text("world").foregroundColor(.pink))!")
+    .font(.title)
